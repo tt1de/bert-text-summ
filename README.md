@@ -1,6 +1,6 @@
 a simple BERT text summarization algorithm realization
 
-do not upload output, because the size is too large (several times fail to upload)
+did not upload output, because the size is too large (several times fail to upload)
 
 the model is fitted by google colab
 some parameters: epoch = 1
